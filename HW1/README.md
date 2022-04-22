@@ -12,10 +12,8 @@
     `$ telnet <server_IP> <server_port>`
 
 ## 指令
-:::info
-以下指令中的 `%` 為 BBS 系統之前綴，下指令時無須輸入
+以下指令中的 `%` 為 BBS 系統之前綴，下指令時無須輸入。
 當使用者輸入的指令有誤時，系統將會顯示該指令之正確用法。
-:::
 - 使用者相關
     - **註冊**
         `% register <username> <email> <password>`
