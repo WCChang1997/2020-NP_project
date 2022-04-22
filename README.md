@@ -1,4 +1,6 @@
 # 網路程式設計概論 Project：BBS System
+[Course information](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=108&Sem=2&CrsNo=1266&lang=zh-tw)<br>
+[GitHub repository](https://github.com/WCChang1997/NP_project.git)
 - Project 分成 4 次作業，將分別**新增**不同的功能，意即每次作業都必須包含前一次作業能完成的功能。
 - HW1 及 HW2 主要是設計 Bulletin Board System (BBS) 的 server 端程式，讓使用者能夠透過 telnet 連上該 server，並且進行討論版的基本操作。
     - [HW1](/HW1) 主要是能讓使用者註冊、登入登出
